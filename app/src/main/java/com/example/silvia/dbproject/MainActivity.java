@@ -126,7 +126,7 @@ public class MainActivity extends AppCompatActivity {
             Bitmap bitmap = BitmapFactory.decodeFile(imagePath);
 
             // serve per salvare il file nella cartella Image dell'applicazione
-            
+
             /*File file = getOutputMediaFile();
             try {
                 FileOutputStream fileOutputStream = new FileOutputStream(file);
